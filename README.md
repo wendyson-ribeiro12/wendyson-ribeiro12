@@ -1,4 +1,4 @@
-- 👋 Olá! eu sou o wendyson-ribeiro12 
+- 👋 Olá! eu sou o wendyson-ribeiro12
 - 👀 Estou começando a trabalhar com Front-end
 - 🌱 Estudando HTML5, CSS, Javascript, TypeScript e Phyton
 - 📫 Pode me contactar no email wendyson.ayres123@gmail.com
