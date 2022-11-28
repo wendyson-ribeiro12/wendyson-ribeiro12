@@ -1,7 +1,7 @@
-- 👋 Olá! eu sou o wendyson-ribeiro12
-- 👀 Estou começando a trabalhar com Front-end
-- 🌱 Estudando HTML5, CSS, Javascript, TypeScript e Phyton
-- 📫 Pode me contactar no email wendyson.ayres123@gmail.com
+- 👋 Olá! eu sou o Wendyson Ribeiro
+- 👀 Sou Analista de Dados
+- 🌱 Possuo conhecimentos em Tabelau, Power B.I, Python, SQL, Excel e Google Sheets.
+- 📫 Pode me contactar no email: wendyson.comercial@gmail.com
 
 
 
@@ -12,7 +12,7 @@
 </div>
 
  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://help.tableau.com/current/guides/get-started-tutorial/pt-br/Resources/tableau-logo.png">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
