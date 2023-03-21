@@ -1,5 +1,5 @@
 - 👋 Olá! eu sou o Wendyson Ribeiro
-- 👀 Estudante de Java
+- 👀 Estudante de Java e analista de dados
 - 🌱 Possuo conhecimentos em Java, Html, CSS, Tabelau, Power B.I, Python, SQL, Excel e Google Sheets.
 - 📫 Pode me contactar no email: wendyson.comercial@gmail.com
 
