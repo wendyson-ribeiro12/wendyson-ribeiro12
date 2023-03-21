@@ -1,6 +1,6 @@
 - 👋 Olá! eu sou o Wendyson Ribeiro
-- 👀 Sou Analista de Dados
-- 🌱 Possuo conhecimentos em Tabelau, Power B.I, Python, SQL, Excel e Google Sheets.
+- 👀 Estudante de Java
+- 🌱 Possuo conhecimentos em Java, Html, CSS, Tabelau, Power B.I, Python, SQL, Excel e Google Sheets.
 - 📫 Pode me contactar no email: wendyson.comercial@gmail.com
 
 
